@@ -2,7 +2,6 @@ package files
 
 import (
 	"fmt"
-	"github/mtag-io/gohlp/term"
 	"os"
 	"path"
 	"testing"

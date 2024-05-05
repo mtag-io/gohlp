@@ -3,7 +3,7 @@ package files
 import (
 	"encoding/json"
 	"fmt"
-	"github/mtag-io/gohlp/term"
+	"github.com/mtag-io/gohlp/term"
 	"gopkg.in/yaml.v3"
 	"io"
 	"os"
