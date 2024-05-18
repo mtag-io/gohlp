@@ -6,7 +6,7 @@ import (
 	"fmt"
 	"github.com/cloudinary/cloudinary-go/v2"
 	"github.com/cloudinary/cloudinary-go/v2/api/uploader"
-	"github/mtag-io/gohlp/term"
+	"github.com/mtag-io/gohlp/term"
 	"os"
 )
 

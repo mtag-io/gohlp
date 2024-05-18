@@ -1,7 +1,7 @@
 package _map
 
 import (
-	"github/mtag-io/gohlp/slice"
+	"github.com/mtag-io/gohlp/slice"
 	"strings"
 )
 
